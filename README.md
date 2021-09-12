@@ -1,2 +1,2 @@
 # Sudoku-Solver
-This code solves solves sudoku puzzles recursively using a backtracking algorithm
+This code solves solves sudoku puzzles recursively using the recursive backtracking algorithm
